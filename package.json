@@ -2,7 +2,7 @@
   "homepage": "https://hjeepark.github.io/index.html",
   "name": "moran-tarot",
   "version": "1.0.0",
-  "main": "event.js",
+  "main": "index.html",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
