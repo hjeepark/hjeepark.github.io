@@ -173,14 +173,16 @@ head {
       width: 100vw;
       margin:0;
       padding: 0;
+
     }
 
     .bottom{
+
       transform: scale(100%, 100%);
       padding: 15px;
       right: 0;
       border: none;
-      background-color:#00000000;
+      background-color:#000000;
       color: #ffffff;
       text-align: center;
       font-size:1vw;
@@ -191,11 +193,12 @@ head {
     }
 
     .bottomm {
+
       transform: scale(100%, 100%);
       padding: 0px;
       right: 0;
       border: none;
-      background-color:#00000000;
+      background-color:#000000;
       color: #ffffff;
       text-align: center;
       font-size:1vw;

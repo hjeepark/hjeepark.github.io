@@ -142,17 +142,16 @@ head {
       }
 
       footer {
-        position: absolute;
         width:100%;
         height: 0 auto;
         width: 100vw;
         margin:0;
         padding: 0;
-        top: 125%;
+  
       }
   
       .bottom{
-        top: 0px;
+  
         transform: scale(100%, 100%);
         padding: 15px;
         right: 0;
@@ -168,7 +167,7 @@ head {
       }
   
       .bottomm {
-        top: 0px;
+  
         transform: scale(100%, 100%);
         padding: 0px;
         right: 0;

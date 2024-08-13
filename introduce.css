@@ -262,11 +262,11 @@ head {
     width: 100vw;
     margin:0;
     padding: 0;
-    
+
   }
 
   .bottom{
-    
+
     transform: scale(100%, 100%);
     padding: 15px;
     right: 0;
@@ -282,7 +282,7 @@ head {
   }
 
   .bottomm {
-    
+
     transform: scale(100%, 100%);
     padding: 0px;
     right: 0;
