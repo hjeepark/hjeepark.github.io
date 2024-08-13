@@ -28,16 +28,16 @@ head {
       position: fixed;
       text-align: center;
       width: 100%;
-      height: 10vh;
+      height: 2cm;
       background-color: #000000;
     }
 
     .icon {
       border: none;
       position: fixed;
-      top: 1.5%;
+      top: 1%;
       right: 85vw;
-      height: 8vh;
+      height: 2cm;
       background-color:#ffffff00;
     }
 
@@ -57,7 +57,7 @@ head {
       background-color:#00000000;
       color: #ffffff;
       text-align: center;
-      font-size:2vw;
+      font-size:1cm;
       font-family: "Diphylleia", serif;
       font-weight: 400;
       font-style: normal;
@@ -87,7 +87,7 @@ head {
       width: 100vw;
       margin:0;
       padding: 0;
-      padding-top: 10vh;
+      padding-top: 3cm;
     }
 
     .middle {

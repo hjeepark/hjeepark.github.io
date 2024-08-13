@@ -63,37 +63,6 @@ head {
       font-style: normal;
     }
 
-    .icon {
-      border: none;
-      position: fixed;
-      top: 1%;
-      right: 85vw;
-      height: 8vh;
-      background-color:#ffffff00;
-    }
-
-    .Button {
-      right: 0vw;
-      width: 100vw;
-      margin: 0 auto;
-      position: fixed;
-      display:inline-block
-    }
-
-    .button {
-      transform: scale(100%, 100%);
-      padding: 15px;
-      right: 0;
-      border: none;
-      background-color:#00000000;
-      color: #ffffff;
-      text-align: center;
-      font-size:2vw;
-      font-family: "Diphylleia", serif;
-      font-weight: 400;
-      font-style: normal;
-    }
-
     #btn-back-to-top {
       display: none;
       position: fixed;
@@ -118,7 +87,7 @@ head {
       width: 100vw;
       margin:0;
       padding: 0;
-      padding-top: 10vh;
+      padding-top: 3cm;
     }
 
     .middle {
