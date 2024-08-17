@@ -1,4 +1,2 @@
 User-agent: *
-Allow:/
-
-Sitemap: https://moran-tarot.com/sitemap.xml
+Allow: /
