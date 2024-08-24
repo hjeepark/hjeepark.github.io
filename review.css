@@ -40,23 +40,23 @@ body {
   background-color: #000000;
 }
 
-    .icon {
-      border: none;
-      position: fixed;
-      top: 0%;
-      right: 85vw;
-      height: 10%;
-      background-color:#ffffff00;
-    }
+.icon {
+  border: none;
+  position: fixed;
+  top: 1.5%;
+  right: 85vw;
+  height: 6%;
+  background-color:#ffffff00;
+}
 
-    .Button {
-      top: 1%;
-      right: 0vw;
-      width: 100%;
-      margin: 0 auto;
-      position: fixed;
-      display:inline-block
-    }
+.Button {
+  top: 1%;
+  right: 0vw;
+  width: 100%;
+  margin: 0 auto;
+  position: fixed;
+  display:inline-block
+}
 
     .button {
       margin: 0.5em;

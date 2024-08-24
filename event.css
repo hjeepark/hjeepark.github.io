@@ -43,9 +43,9 @@ body {
     .icon {
       border: none;
       position: fixed;
-      top: 0%;
+      top: 1.5%;
       right: 85vw;
-      height: 10%;
+      height: 6%;
       background-color:#ffffff00;
     }
 
@@ -67,7 +67,7 @@ body {
       background-color:#00000000;
       color: #ffffff;
       text-align: center;
-      font-size:2.5vh;
+      font-size:2vh;
       font-family: "Diphylleia", serif;
       font-weight: 0 auto;
       font-style: normal;
