@@ -58,20 +58,20 @@ body {
   display:inline-block
 }
 
-    .button {
-      margin: 0.5em;
-      transform: scale(100%, 100%);
-      padding: 0cm;
-      right: 0;
-      border: none;
-      background-color:#00000000;
-      color: #ffffff;
-      text-align: center;
-      font-size:2.5vh;
-      font-family: "Diphylleia", serif;
-      font-weight: 0 auto;
-      font-style: normal;
-    }
+.button {
+  margin: 0.5em;
+  transform: scale(100%, 100%);
+  padding: 0cm;
+  right: 0;
+  border: none;
+  background-color:#00000000;
+  color: #ffffff;
+  text-align: center;
+  font-size:2vh;
+  font-family: "Diphylleia", serif;
+  font-weight: 0 auto;
+  font-style: normal;
+}
 
     #btn-back-to-top {
       display: none;
